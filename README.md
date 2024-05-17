@@ -1,3 +1,7 @@
+	![Project](e-commerce.png)
+
+
+
 Here is the diagram I Have created in mySQL for the Backend of the E-Commerce application I Posted .
 With this system design a user could be able to open two accounts with one email and phone number(one buyer account and one seller account).
 a shipping cart for calculation their expenses before purchase,
